@@ -1,0 +1,15 @@
+/Users/student/prime/tier3/dotnet-hellow-world/bin/Debug/net5.0/dotnet-hellow-world.deps.json
+/Users/student/prime/tier3/dotnet-hellow-world/bin/Debug/net5.0/dotnet-hellow-world.runtimeconfig.json
+/Users/student/prime/tier3/dotnet-hellow-world/bin/Debug/net5.0/dotnet-hellow-world.runtimeconfig.dev.json
+/Users/student/prime/tier3/dotnet-hellow-world/bin/Debug/net5.0/dotnet-hellow-world.dll
+/Users/student/prime/tier3/dotnet-hellow-world/bin/Debug/net5.0/ref/dotnet-hellow-world.dll
+/Users/student/prime/tier3/dotnet-hellow-world/bin/Debug/net5.0/dotnet-hellow-world.pdb
+/Users/student/prime/tier3/dotnet-hellow-world/obj/Debug/net5.0/dotnet-hellow-world.csproj.AssemblyReference.cache
+/Users/student/prime/tier3/dotnet-hellow-world/obj/Debug/net5.0/dotnet-hellow-world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/student/prime/tier3/dotnet-hellow-world/obj/Debug/net5.0/dotnet-hellow-world.AssemblyInfoInputs.cache
+/Users/student/prime/tier3/dotnet-hellow-world/obj/Debug/net5.0/dotnet-hellow-world.AssemblyInfo.cs
+/Users/student/prime/tier3/dotnet-hellow-world/obj/Debug/net5.0/dotnet-hellow-world.csproj.CoreCompileInputs.cache
+/Users/student/prime/tier3/dotnet-hellow-world/obj/Debug/net5.0/dotnet-hellow-world.dll
+/Users/student/prime/tier3/dotnet-hellow-world/obj/Debug/net5.0/ref/dotnet-hellow-world.dll
+/Users/student/prime/tier3/dotnet-hellow-world/obj/Debug/net5.0/dotnet-hellow-world.pdb
+/Users/student/prime/tier3/dotnet-hellow-world/obj/Debug/net5.0/dotnet-hellow-world.genruntimeconfig.cache
